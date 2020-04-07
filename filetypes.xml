@@ -4,7 +4,6 @@
       <mapping pattern="whatsnew" type="PLAIN_TEXT" />
       <mapping pattern="contactPhone" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
